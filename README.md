@@ -16,7 +16,7 @@ A simple and user-friendly text editor built using Python and Tkinter.
 - Tkinter
 
 ##  Screenshot
-(Add a screenshot of your application here)
+https://github.com/sanjayjadhav6508-sketch/Simple-text-editor/blob/9deaf8a02a11d5c3e04077388eab320cbcba656b/screenshot%20simple%20text%20editor.%20png.jpg
 
 ##  How to Run
 1. Clone the repository
